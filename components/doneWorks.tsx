@@ -1,17 +1,18 @@
 import Image from 'next/image'
 
-import DoneWork_1 from '@/public/images/done_works/1.png';
-import DoneWork_2 from '@/public/images/done_works/2.png';
-import DoneWork_3 from '@/public/images/done_works/3.png';
-import DoneWork_4 from '@/public/images/done_works/4.png';
-import DoneWork_5 from '@/public/images/done_works/5.png';
-import DoneWork_6 from '@/public/images/done_works/6.png';
-import DoneWork_7 from '@/public/images/done_works/7.png';
-import DoneWork_8 from '@/public/images/done_works/8.png';
-import DoneWork_9 from '@/public/images/done_works/9.png';
-import DoneWork_10 from '@/public/images/done_works/10.png';
-import DoneWork_11 from '@/public/images/done_works/11.png';
-import DoneWork_12 from '@/public/images/done_works/12.png';
+import DoneWork_1 from '@/public/images/done_works2/1.jpg';
+import DoneWork_2 from '@/public/images/done_works2/2.jpg';
+import DoneWork_3 from '@/public/images/done_works2/3.jpg';
+import DoneWork_4 from '@/public/images/done_works2/4.jpg';
+import DoneWork_5 from '@/public/images/done_works2/5.jpg';
+import DoneWork_6 from '@/public/images/done_works2/6.jpg';
+import DoneWork_7 from '@/public/images/done_works2/7.jpg';
+import DoneWork_8 from '@/public/images/done_works2/8.jpg';
+import DoneWork_9 from '@/public/images/done_works2/9.jpg';
+import DoneWork_10 from '@/public/images/done_works2/10.jpg';
+import DoneWork_11 from '@/public/images/done_works2/11.jpg';
+import DoneWork_12 from '@/public/images/done_works2/12.jpg';
+import DoneWork_13 from '@/public/images/done_works2/13.jpg';
 
 export default function DoneWorks() {
   return (
@@ -66,6 +67,9 @@ export default function DoneWorks() {
               </div>
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={DoneWork_12} width={540} height={405} alt="Features 01" />
+              </div>
+              <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
+                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={DoneWork_13} width={540} height={405} alt="Features 01" />
               </div>
               {/* Content */}
             </div>

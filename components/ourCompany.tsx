@@ -11,8 +11,8 @@ export default function OurCompany() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Our Company</h2>
-            <p className="text-xl text-gray-400">Established within the structure of Torktech Repair, it offers a wide range of dry dock services, ship repair management, afloat and port repairs, ship repair consulting, and supervision. With more than 15 years of experience in all segments of the shipyard,
-services with a qualified, highly experienced team.</p>
+            <p className="text-xl text-gray-400">Established within the structure of Torktech Repair, it offers a wide range of dry dock services, ship repair management, afloat and port repairs, ship repair consulting, and supervision. 
+            With extensive expertise across all shipyard segments, we offer services delivered by a skilled and highly experienced team.</p>
           </div>
 
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
